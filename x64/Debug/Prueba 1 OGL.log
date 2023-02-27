@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\pc\Documents\6to Semestre\Graficas Comp\proyectos vs\Prueba 1 OGL\main.cpp(181,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Prueba 1 OGL.vcxproj -> C:\Users\pc\Documents\6to Semestre\Graficas Comp\proyectos vs\Prueba 1 OGL\x64\Debug\Prueba 1 OGL.exe
